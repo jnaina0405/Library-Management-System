@@ -21,3 +21,4 @@ A menu-driven Library Management System developed in C++ that allows users to ma
    g++ main.cpp -o library
 2. Run:
    ./library
+
